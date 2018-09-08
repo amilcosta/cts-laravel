@@ -1,0 +1,48 @@
+.area-lista{
+	width: 100%;float:left;
+}
+.titulo-border{
+	border: solid 1px #ccd0d2;
+    border-radius: 5px 5px 0px 0px;
+}
+.textos-lista{
+	width: 44%; float: left; text-align: center;
+}
+.titulos-lista{
+	font-weight: bold;
+}
+.texto-border{
+	border: solid 1px #f9f8f8;
+}
+.title-box{
+	display: inline;
+    margin-right: 75%;
+}
+.textos-usuarios{
+	width: 22%; float: left; text-align: center;
+}
+.error-message{
+	width: 300px;
+	background-color: #fb849f;
+	border-color: #e03c34;
+	color: white;
+	padding: 10px;
+	margin-top: 10px;
+	border-radius: 4px;
+	font-weight: 600;
+}
+.success-message{
+	width: 300px;
+	background-color: #8bfb84;
+	border-color: #e03c34;
+	color: #515667;
+	padding: 10px;
+	margin-top: 10px;
+	border-radius: 4px;
+	font-weight: 600;
+}
+.delete-option{
+	padding: 0px;
+    background: transparent;
+    border: none;
+}
